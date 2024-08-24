@@ -7,6 +7,10 @@ module.exports = {
   },
 
     extend: {
+      backgroundImage: {
+        
+        'form-texture': "url('./assets/bg.jpg')",
+      },
       colors: {
         'btn-primary': '#ABEF5F',
         'text-primary': '#212121',
